@@ -25,7 +25,7 @@ public class Gui extends javax.swing.JFrame {
         crearNodoIniciado(50, 50);
     }
 
-    
+    //a
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
